@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Example</string>
+    <string-array name="books" >
+        <item>Programming</item>
+        <item>Database</item>
+        <item>Web</item>
+    </string-array>
+</resources>
